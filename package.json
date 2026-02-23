@@ -14,7 +14,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-jsonschema-form": "^1.4.0",
-    "react-jsonschema-materialui-forms": "0.0.23",
+    "react-jsonschema-materialui-forms": "0.0.59",
     "react-router-dom": "^5.0.0",
     "react-scripts": "latest"
   },
